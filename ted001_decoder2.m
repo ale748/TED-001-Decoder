@@ -7,7 +7,7 @@ leng = data.Length;
 t = (1:leng)*data.Tinterval + data.Tstart;
 A = data.A;
 
-vted = 10;
+vted = 2;
 vpan = 1;
 
 tol = 0.30;
